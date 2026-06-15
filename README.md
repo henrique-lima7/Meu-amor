@@ -9,6 +9,7 @@
   <font size="4" color="#D4A017"><i>"Eu te amarei no começo, no meio e até o fim."</i></font>
 </p>
 
+<p align="center">
 ---
 ## 🌻 Experimente o Projeto
 
