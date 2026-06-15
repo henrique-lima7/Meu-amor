@@ -13,9 +13,9 @@
 ## 🌻 Experimente o Projeto
 
 <p align="center">
-  <a href="https://henrique-lima7.github.io/Meu-amor/">
-    <img src="https://img.shields.io/badge/💛%20ACESSAR%20PROJETO%20🌻-FBC02D?style=for-the-badge" />
-  </a>
+  <a href="https://henrique-lima7.github.io/Project-Sunflower-Love/" target="_blank">
+  <img src="https://img.shields.io/badge/💛%20ACESSAR%20PROJETO%20🌻-FBC02D?style=for-the-badge" alt="Acessar Projeto" />
+</a>
 </p>
 
 ✨ Clique no botão acima para conhecer a experiência completa do projeto. ✨
